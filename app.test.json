@@ -21,6 +21,7 @@
       "bundleIdentifier": "xyz.bront.ex"
     },
     "android": {
+      "package": "xyz.bront.ex",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
