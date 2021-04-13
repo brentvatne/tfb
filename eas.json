@@ -8,6 +8,10 @@
     "ios": {
       "release": {
         "workflow": "managed"
+      },
+      "simulator": {
+        "workflow": "managed",
+        "distribution": "simulator"
       }
     }
   }
