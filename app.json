@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "scheme": "tryingfb",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,7 +22,6 @@
       "bundleIdentifier": "xyz.bront.ex"
     },
     "android": {
-      "package": "xyz.bront.ex",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -29,6 +29,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "facebookScheme": "fb629712900716487",
+    "facebookAppId": "629712900716487",
+    "facebookDisplayName": "Expo Test"
   }
 }
